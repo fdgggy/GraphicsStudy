@@ -1,0 +1,293 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Program Files/CMake/share/cmake-3.26/Modules/CMakeDetermineSystem.cmake:204 (message)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      The system is: Windows - 10.0.19045 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Program Files/CMake/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Program Files/CMake/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Program Files/CMake/share/cmake-3.26/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler:  
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.11.2+c078802d4
+      鐢熸垚鍚姩鏃堕棿涓?1/4/2025 6:39:27 PM銆?
+      
+      鑺傜偣 1 涓婄殑椤圭洰鈥淕:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\3.26.4\\CompilerIdC\\CompilerIdC.vcxproj鈥?榛樿鐩爣)銆?
+      PrepareForBuild:
+        姝ｅ湪鍒涘缓鐩綍鈥淒ebug\\鈥濄€?
+        宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+        姝ｅ湪鍒涘缓鐩綍鈥淒ebug\\CompilerIdC.tlog\\鈥濄€?
+      InitializeBuildStatus:
+        姝ｅ湪鍒涘缓鈥淒ebug\\CompilerIdC.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+        姝ｅ湪瀵光€淒ebug\\CompilerIdC.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+      ClCompile:
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc143.pdb" /external:W0 /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
+        CMakeCCompilerId.c
+      Link:
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdC.lib" /MACHINE:X64 Debug\\CMakeCCompilerId.obj
+        CompilerIdC.vcxproj -> G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\3.26.4\\CompilerIdC\\CompilerIdC.exe
+      PostBuildEvent:
+        for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+        :VCEnd
+        CMAKE_C_COMPILER=C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe
+      FinalizeBuildStatus:
+        姝ｅ湪鍒犻櫎鏂囦欢鈥淒ebug\\CompilerIdC.tlog\\unsuccessfulbuild鈥濄€?
+        姝ｅ湪瀵光€淒ebug\\CompilerIdC.tlog\\CompilerIdC.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+      宸插畬鎴愮敓鎴愰」鐩€淕:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\3.26.4\\CompilerIdC\\CompilerIdC.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+      
+      宸叉垚鍔熺敓鎴愩€?
+          0 涓鍛?
+          0 涓敊璇?
+      
+      宸茬敤鏃堕棿 00:00:00.75
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+      
+      The C compiler identification is MSVC, found in:
+        G:/work/SuperProject/Test/OpenGLStudy/glfw-3.4/build/CMakeFiles/3.26.4/CompilerIdC/CompilerIdC.exe
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/Program Files/CMake/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "D:/Program Files/CMake/share/cmake-3.26/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "G:/work/SuperProject/Test/OpenGLStudy/glfw-3.4/build/CMakeFiles/CMakeScratch/TryCompile-jt9mx0"
+      binary: "G:/work/SuperProject/Test/OpenGLStudy/glfw-3.4/build/CMakeFiles/CMakeScratch/TryCompile-jt9mx0"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: G:/work/SuperProject/Test/OpenGLStudy/glfw-3.4/build/CMakeFiles/CMakeScratch/TryCompile-jt9mx0
+        
+        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Professional/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_406bf.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && 閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.11.2+c078802d4
+        鐢熸垚鍚姩鏃堕棿涓?1/4/2025 6:39:28 PM銆?
+        
+        鑺傜偣 1 涓婄殑椤圭洰鈥淕:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jt9mx0\\cmTC_406bf.vcxproj鈥?榛樿鐩爣)銆?
+        PrepareForBuild:
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_406bf.dir\\Debug\\鈥濄€?
+          宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+          姝ｅ湪鍒涘缓鐩綍鈥淕:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jt9mx0\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_406bf.dir\\Debug\\cmTC_406bf.tlog\\鈥濄€?
+        InitializeBuildStatus:
+          姝ｅ湪鍒涘缓鈥渃mTC_406bf.dir\\Debug\\cmTC_406bf.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_406bf.dir\\Debug\\cmTC_406bf.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_406bf.dir\\Debug\\\\" /Fd"cmTC_406bf.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
+          鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.41.34120 鐗?
+          鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_406bf.dir\\Debug\\\\" /Fd"cmTC_406bf.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
+          CMakeCCompilerABI.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jt9mx0\\Debug\\cmTC_406bf.exe" /INCREMENTAL /ILK:"cmTC_406bf.dir\\Debug\\cmTC_406bf.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:/work/SuperProject/Test/OpenGLStudy/glfw-3.4/build/CMakeFiles/CMakeScratch/TryCompile-jt9mx0/Debug/cmTC_406bf.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:/work/SuperProject/Test/OpenGLStudy/glfw-3.4/build/CMakeFiles/CMakeScratch/TryCompile-jt9mx0/Debug/cmTC_406bf.lib" /MACHINE:X64  /machine:x64 cmTC_406bf.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_406bf.vcxproj -> G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jt9mx0\\Debug\\cmTC_406bf.exe
+        FinalizeBuildStatus:
+          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_406bf.dir\\Debug\\cmTC_406bf.tlog\\unsuccessfulbuild鈥濄€?
+          姝ｅ湪瀵光€渃mTC_406bf.dir\\Debug\\cmTC_406bf.tlog\\cmTC_406bf.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+        宸插畬鎴愮敓鎴愰」鐩€淕:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jt9mx0\\cmTC_406bf.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+        
+        宸叉垚鍔熺敓鎴愩€?
+            0 涓鍛?
+            0 涓敊璇?
+        
+        宸茬敤鏃堕棿 00:00:00.54
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/Program Files/CMake/share/cmake-3.26/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "D:/Program Files/CMake/share/cmake-3.26/Modules/CheckCSourceCompiles.cmake:76 (cmake_check_source_compiles)"
+      - "D:/Program Files/CMake/share/cmake-3.26/Modules/FindThreads.cmake:97 (CHECK_C_SOURCE_COMPILES)"
+      - "D:/Program Files/CMake/share/cmake-3.26/Modules/FindThreads.cmake:163 (_threads_check_libc)"
+      - "CMakeLists.txt:60 (find_package)"
+    checks:
+      - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
+    directories:
+      source: "G:/work/SuperProject/Test/OpenGLStudy/glfw-3.4/build/CMakeFiles/CMakeScratch/TryCompile-suqj8t"
+      binary: "G:/work/SuperProject/Test/OpenGLStudy/glfw-3.4/build/CMakeFiles/CMakeScratch/TryCompile-suqj8t"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "G:/work/SuperProject/Test/OpenGLStudy/glfw-3.4/CMake/modules"
+    buildResult:
+      variable: "CMAKE_HAVE_LIBC_PTHREAD"
+      cached: true
+      stdout: |
+        Change Dir: G:/work/SuperProject/Test/OpenGLStudy/glfw-3.4/build/CMakeFiles/CMakeScratch/TryCompile-suqj8t
+        
+        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Professional/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_9c21f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && 閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.11.2+c078802d4
+        鐢熸垚鍚姩鏃堕棿涓?1/4/2025 6:39:29 PM銆?
+        
+        鑺傜偣 1 涓婄殑椤圭洰鈥淕:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-suqj8t\\cmTC_9c21f.vcxproj鈥?榛樿鐩爣)銆?
+        PrepareForBuild:
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_9c21f.dir\\Debug\\鈥濄€?
+          宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+          姝ｅ湪鍒涘缓鐩綍鈥淕:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-suqj8t\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_9c21f.dir\\Debug\\cmTC_9c21f.tlog\\鈥濄€?
+        InitializeBuildStatus:
+          姝ｅ湪鍒涘缓鈥渃mTC_9c21f.dir\\Debug\\cmTC_9c21f.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_9c21f.dir\\Debug\\cmTC_9c21f.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9c21f.dir\\Debug\\\\" /Fd"cmTC_9c21f.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-suqj8t\\src.c"
+          鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.41.34120 鐗?
+          鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9c21f.dir\\Debug\\\\" /Fd"cmTC_9c21f.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-suqj8t\\src.c"
+          src.c
+        G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-suqj8t\\src.c(1,10): error C1083: 鏃犳硶鎵撳紑鍖呮嫭鏂囦欢: 鈥減thread.h鈥? No such file or directory [G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-suqj8t\\cmTC_9c21f.vcxproj]
+        宸插畬鎴愮敓鎴愰」鐩€淕:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-suqj8t\\cmTC_9c21f.vcxproj鈥?榛樿鐩爣)鐨勬搷浣?- 澶辫触銆?
+        
+        鐢熸垚澶辫触銆?
+        
+        鈥淕:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-suqj8t\\cmTC_9c21f.vcxproj鈥?榛樿鐩爣) (1) ->
+        (ClCompile 鐩爣) -> 
+          G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-suqj8t\\src.c(1,10): error C1083: 鏃犳硶鎵撳紑鍖呮嫭鏂囦欢: 鈥減thread.h鈥? No such file or directory [G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-suqj8t\\cmTC_9c21f.vcxproj]
+        
+            0 涓鍛?
+            1 涓敊璇?
+        
+        宸茬敤鏃堕棿 00:00:00.31
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/Program Files/CMake/share/cmake-3.26/Modules/CheckLibraryExists.cmake:71 (try_compile)"
+      - "D:/Program Files/CMake/share/cmake-3.26/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
+      - "D:/Program Files/CMake/share/cmake-3.26/Modules/FindThreads.cmake:175 (_threads_check_lib)"
+      - "CMakeLists.txt:60 (find_package)"
+    checks:
+      - "Looking for pthread_create in pthreads"
+    directories:
+      source: "G:/work/SuperProject/Test/OpenGLStudy/glfw-3.4/build/CMakeFiles/CMakeScratch/TryCompile-j9x4a5"
+      binary: "G:/work/SuperProject/Test/OpenGLStudy/glfw-3.4/build/CMakeFiles/CMakeScratch/TryCompile-j9x4a5"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "G:/work/SuperProject/Test/OpenGLStudy/glfw-3.4/CMake/modules"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREADS_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: G:/work/SuperProject/Test/OpenGLStudy/glfw-3.4/build/CMakeFiles/CMakeScratch/TryCompile-j9x4a5
+        
+        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Professional/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_d1103.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && 閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.11.2+c078802d4
+        鐢熸垚鍚姩鏃堕棿涓?1/4/2025 6:39:30 PM銆?
+        
+        鑺傜偣 1 涓婄殑椤圭洰鈥淕:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-j9x4a5\\cmTC_d1103.vcxproj鈥?榛樿鐩爣)銆?
+        PrepareForBuild:
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_d1103.dir\\Debug\\鈥濄€?
+          宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+          姝ｅ湪鍒涘缓鐩綍鈥淕:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-j9x4a5\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_d1103.dir\\Debug\\cmTC_d1103.tlog\\鈥濄€?
+        InitializeBuildStatus:
+          姝ｅ湪鍒涘缓鈥渃mTC_d1103.dir\\Debug\\cmTC_d1103.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_d1103.dir\\Debug\\cmTC_d1103.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d1103.dir\\Debug\\\\" /Fd"cmTC_d1103.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-j9x4a5\\CheckFunctionExists.c"
+          鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.41.34120 鐗?
+          鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d1103.dir\\Debug\\\\" /Fd"cmTC_d1103.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-j9x4a5\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-j9x4a5\\Debug\\cmTC_d1103.exe" /INCREMENTAL /ILK:"cmTC_d1103.dir\\Debug\\cmTC_d1103.ilk" /NOLOGO pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:/work/SuperProject/Test/OpenGLStudy/glfw-3.4/build/CMakeFiles/CMakeScratch/TryCompile-j9x4a5/Debug/cmTC_d1103.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:/work/SuperProject/Test/OpenGLStudy/glfw-3.4/build/CMakeFiles/CMakeScratch/TryCompile-j9x4a5/Debug/cmTC_d1103.lib" /MACHINE:X64  /machine:x64 cmTC_d1103.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: 鏃犳硶鎵撳紑鏂囦欢鈥減threads.lib鈥?[G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-j9x4a5\\cmTC_d1103.vcxproj]
+        宸插畬鎴愮敓鎴愰」鐩€淕:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-j9x4a5\\cmTC_d1103.vcxproj鈥?榛樿鐩爣)鐨勬搷浣?- 澶辫触銆?
+        
+        鐢熸垚澶辫触銆?
+        
+        鈥淕:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-j9x4a5\\cmTC_d1103.vcxproj鈥?榛樿鐩爣) (1) ->
+        (Link 鐩爣) -> 
+          LINK : fatal error LNK1104: 鏃犳硶鎵撳紑鏂囦欢鈥減threads.lib鈥?[G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-j9x4a5\\cmTC_d1103.vcxproj]
+        
+            0 涓鍛?
+            1 涓敊璇?
+        
+        宸茬敤鏃堕棿 00:00:00.42
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/Program Files/CMake/share/cmake-3.26/Modules/CheckLibraryExists.cmake:71 (try_compile)"
+      - "D:/Program Files/CMake/share/cmake-3.26/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
+      - "D:/Program Files/CMake/share/cmake-3.26/Modules/FindThreads.cmake:176 (_threads_check_lib)"
+      - "CMakeLists.txt:60 (find_package)"
+    checks:
+      - "Looking for pthread_create in pthread"
+    directories:
+      source: "G:/work/SuperProject/Test/OpenGLStudy/glfw-3.4/build/CMakeFiles/CMakeScratch/TryCompile-78t55g"
+      binary: "G:/work/SuperProject/Test/OpenGLStudy/glfw-3.4/build/CMakeFiles/CMakeScratch/TryCompile-78t55g"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "G:/work/SuperProject/Test/OpenGLStudy/glfw-3.4/CMake/modules"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREAD_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: G:/work/SuperProject/Test/OpenGLStudy/glfw-3.4/build/CMakeFiles/CMakeScratch/TryCompile-78t55g
+        
+        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Professional/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_632f3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && 閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.11.2+c078802d4
+        鐢熸垚鍚姩鏃堕棿涓?1/4/2025 6:39:30 PM銆?
+        
+        鑺傜偣 1 涓婄殑椤圭洰鈥淕:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-78t55g\\cmTC_632f3.vcxproj鈥?榛樿鐩爣)銆?
+        PrepareForBuild:
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_632f3.dir\\Debug\\鈥濄€?
+          宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+          姝ｅ湪鍒涘缓鐩綍鈥淕:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-78t55g\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_632f3.dir\\Debug\\cmTC_632f3.tlog\\鈥濄€?
+        InitializeBuildStatus:
+          姝ｅ湪鍒涘缓鈥渃mTC_632f3.dir\\Debug\\cmTC_632f3.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_632f3.dir\\Debug\\cmTC_632f3.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_632f3.dir\\Debug\\\\" /Fd"cmTC_632f3.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-78t55g\\CheckFunctionExists.c"
+          鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.41.34120 鐗?
+          鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_632f3.dir\\Debug\\\\" /Fd"cmTC_632f3.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-78t55g\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-78t55g\\Debug\\cmTC_632f3.exe" /INCREMENTAL /ILK:"cmTC_632f3.dir\\Debug\\cmTC_632f3.ilk" /NOLOGO pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:/work/SuperProject/Test/OpenGLStudy/glfw-3.4/build/CMakeFiles/CMakeScratch/TryCompile-78t55g/Debug/cmTC_632f3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:/work/SuperProject/Test/OpenGLStudy/glfw-3.4/build/CMakeFiles/CMakeScratch/TryCompile-78t55g/Debug/cmTC_632f3.lib" /MACHINE:X64  /machine:x64 cmTC_632f3.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: 鏃犳硶鎵撳紑鏂囦欢鈥減thread.lib鈥?[G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-78t55g\\cmTC_632f3.vcxproj]
+        宸插畬鎴愮敓鎴愰」鐩€淕:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-78t55g\\cmTC_632f3.vcxproj鈥?榛樿鐩爣)鐨勬搷浣?- 澶辫触銆?
+        
+        鐢熸垚澶辫触銆?
+        
+        鈥淕:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-78t55g\\cmTC_632f3.vcxproj鈥?榛樿鐩爣) (1) ->
+        (Link 鐩爣) -> 
+          LINK : fatal error LNK1104: 鏃犳硶鎵撳紑鏂囦欢鈥減thread.lib鈥?[G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\CMakeFiles\\CMakeScratch\\TryCompile-78t55g\\cmTC_632f3.vcxproj]
+        
+            0 涓鍛?
+            1 涓敊璇?
+        
+        宸茬敤鏃堕棿 00:00:00.41
+        
+      exitCode: 1
+...

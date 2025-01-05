@@ -1,0 +1,10 @@
+^G:\WORK\SUPERPROJECT\TEST\OPENGLSTUDY\GLFW-3.4\TESTS\CMAKELISTS.TXT
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -SG:/work/SuperProject/Test/OpenGLStudy/glfw-3.4 -BG:/work/SuperProject/Test/OpenGLStudy/glfw-3.4/build --check-stamp-file G:/work/SuperProject/Test/OpenGLStudy/glfw-3.4/build/tests/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

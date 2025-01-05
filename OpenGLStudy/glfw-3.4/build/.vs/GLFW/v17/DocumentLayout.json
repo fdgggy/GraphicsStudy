@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2495C9-2F6F-3D09-900A-68F2814CC290}|examples\\boing.vcxproj|G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\examples\\boing.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CEAB824-1695-3E54-91A3-B2599654CEF1}|examples\\windows.vcxproj|G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\examples\\windows.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D510FC-BB40-340B-9B6C-1B1211A5AB80}|examples\\triangle-opengl.vcxproj|G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\examples\\triangle-opengl.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC984F8-E1B7-3CEF-8633-63C2C725CB0F}|tests\\cursor.vcxproj|G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\tests\\cursor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB234C7D-F7CB-356B-90EB-BBD66C3435A4}|src\\glfw.vcxproj|G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\src\\win32_window.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "windows.c",
+              "DocumentMoniker": "G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\examples\\windows.c",
+              "RelativeDocumentMoniker": "..\\examples\\windows.c",
+              "ToolTip": "G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\examples\\windows.c",
+              "RelativeToolTip": "..\\examples\\windows.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-04T10:57:47.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cursor.c",
+              "DocumentMoniker": "G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\tests\\cursor.c",
+              "RelativeDocumentMoniker": "..\\tests\\cursor.c",
+              "ToolTip": "G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\tests\\cursor.c",
+              "RelativeToolTip": "..\\tests\\cursor.c",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAJUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-04T10:48:45.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "win32_window.c",
+              "DocumentMoniker": "G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\src\\win32_window.c",
+              "RelativeDocumentMoniker": "..\\src\\win32_window.c",
+              "ToolTip": "G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\src\\win32_window.c",
+              "RelativeToolTip": "..\\src\\win32_window.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-04T10:48:14.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "triangle-opengl.c",
+              "DocumentMoniker": "G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\examples\\triangle-opengl.c",
+              "RelativeDocumentMoniker": "..\\examples\\triangle-opengl.c",
+              "ToolTip": "G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\examples\\triangle-opengl.c",
+              "RelativeToolTip": "..\\examples\\triangle-opengl.c",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAG0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-04T10:46:40.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "boing.c",
+              "DocumentMoniker": "G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\examples\\boing.c",
+              "RelativeDocumentMoniker": "..\\examples\\boing.c",
+              "ToolTip": "G:\\work\\SuperProject\\Test\\OpenGLStudy\\glfw-3.4\\examples\\boing.c",
+              "RelativeToolTip": "..\\examples\\boing.c",
+              "ViewState": "AgIAAHsCAAAAAAAAAAAAAIwCAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-04T10:44:05.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1478,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1478,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\work\\SuperProject\\Test\\OpenGLStudy\\OpenGLStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D0B6EA-D912-45E5-85E8-3152F04DC915}|..\\7Camera\\7Camera.vcxproj|G:\\work\\SuperProject\\Test\\OpenGLStudy\\7Camera\\WinMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779ADFE1-370B-484D-A07F-0C40564A707F}|..\\6Camera\\6Camera.vcxproj|G:\\work\\SuperProject\\Test\\OpenGLStudy\\6Camera\\WinMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WinMain.cpp",
+              "DocumentMoniker": "G:\\work\\SuperProject\\Test\\OpenGLStudy\\6Camera\\WinMain.cpp",
+              "RelativeDocumentMoniker": "..\\6Camera\\WinMain.cpp",
+              "ToolTip": "G:\\work\\SuperProject\\Test\\OpenGLStudy\\6Camera\\WinMain.cpp",
+              "RelativeToolTip": "..\\6Camera\\WinMain.cpp",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAAAAwBAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-05T09:16:21.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WinMain.cpp",
+              "DocumentMoniker": "G:\\work\\SuperProject\\Test\\OpenGLStudy\\7Camera\\WinMain.cpp",
+              "RelativeDocumentMoniker": "..\\7Camera\\WinMain.cpp",
+              "ToolTip": "G:\\work\\SuperProject\\Test\\OpenGLStudy\\7Camera\\WinMain.cpp",
+              "RelativeToolTip": "..\\7Camera\\WinMain.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-05T09:16:19.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1478,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1478,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

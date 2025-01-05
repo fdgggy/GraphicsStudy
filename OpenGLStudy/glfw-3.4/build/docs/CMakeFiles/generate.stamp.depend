@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+D:/Program Files/CMake/share/cmake-3.26/Modules/FindDoxygen.cmake
+D:/Program Files/CMake/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake
+D:/Program Files/CMake/share/cmake-3.26/Modules/FindPackageMessage.cmake
+G:/work/SuperProject/Test/OpenGLStudy/glfw-3.4/docs/CMakeLists.txt
