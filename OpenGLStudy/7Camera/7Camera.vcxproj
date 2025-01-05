@@ -71,8 +71,8 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>G:\work\SuperProject\Test\OpenGLStudy\3rd\Include;$(IncludePath)</IncludePath>
-    <LibraryPath>G:\work\SuperProject\Test\OpenGLStudy\3rd\Libs;$(LibraryPath)</LibraryPath>
+    <IncludePath>G:\work\SuperProject\Test\GraphicsStudy\OpenGLStudy\3rd\Include;$(IncludePath)</IncludePath>
+    <LibraryPath>G:\work\SuperProject\Test\GraphicsStudy\OpenGLStudy\3rd\Libs;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>

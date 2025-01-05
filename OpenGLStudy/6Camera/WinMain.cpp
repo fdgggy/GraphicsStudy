@@ -173,7 +173,7 @@ int main()
     // load image, create texture and generate mipmaps
     int width, height, nrChannels;
     stbi_set_flip_vertically_on_load(true); // tell stb_image.h to flip loaded texture's on the y-axis.
-    unsigned char* data = stbi_load("G:/work/SuperProject/Test/OpenGLStudy/Resources/textures/container.jpg", &width, &height, &nrChannels, 0);
+    unsigned char* data = stbi_load("G:/work/SuperProject/Test/GraphicsStudy/OpenGLStudy/Resources/textures/container.jpg", &width, &height, &nrChannels, 0);
 
     if (data)
     {
@@ -196,7 +196,7 @@ int main()
     glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_LINEAR);
     glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR);
     // load image, create texture and generate mipmaps
-    data = stbi_load("G:/work/SuperProject/Test/OpenGLStudy/Resources/textures/awesomeface.png", &width, &height, &nrChannels, 0);
+    data = stbi_load("G:/work/SuperProject/Test/GraphicsStudy/OpenGLStudy/Resources/textures/awesomeface.png", &width, &height, &nrChannels, 0);
 
     if (data)
     {

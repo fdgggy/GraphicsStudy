@@ -1,12 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\work\\SuperProject\\Test\\OpenGLStudy\\OpenGLStudy\\",
+  "WorkspaceRootPath": "G:\\work\\SuperProject\\Test\\GraphicsStudy\\OpenGLStudy\\OpenGLStudy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9D0B6EA-D912-45E5-85E8-3152F04DC915}|..\\7Camera\\7Camera.vcxproj|G:\\work\\SuperProject\\Test\\OpenGLStudy\\7Camera\\WinMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{42FDE875-862E-4D4A-8836-5DC54A566FD7}|..\\Shader\\Shader.vcxproj|G:\\work\\SuperProject\\Test\\GraphicsStudy\\OpenGLStudy\\Shader\\WinMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{779ADFE1-370B-484D-A07F-0C40564A707F}|..\\6Camera\\6Camera.vcxproj|G:\\work\\SuperProject\\Test\\OpenGLStudy\\6Camera\\WinMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FBE8C2B5-7508-426D-A9A9-A3A20D09A4CA}|..\\Texture\\Texture.vcxproj|G:\\work\\SuperProject\\Test\\GraphicsStudy\\OpenGLStudy\\Texture\\WinMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5032326-6345-4269-A6F6-02296D848869}|..\\Transform\\Transform.vcxproj|G:\\work\\SuperProject\\Test\\GraphicsStudy\\OpenGLStudy\\Transform\\WinMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F875C2-DB7F-4EF7-BF4D-DB3899BC1753}|..\\Coordinate\\Coordinate.vcxproj|G:\\work\\SuperProject\\Test\\GraphicsStudy\\OpenGLStudy\\Coordinate\\WinMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779ADFE1-370B-484D-A07F-0C40564A707F}|..\\6Camera\\6Camera.vcxproj|G:\\work\\SuperProject\\Test\\GraphicsStudy\\OpenGLStudy\\6Camera\\WinMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D0B6EA-D912-45E5-85E8-3152F04DC915}|..\\7Camera\\7Camera.vcxproj|G:\\work\\SuperProject\\Test\\GraphicsStudy\\OpenGLStudy\\7Camera\\WinMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,7 +28,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -28,28 +40,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "WinMain.cpp",
-              "DocumentMoniker": "G:\\work\\SuperProject\\Test\\OpenGLStudy\\6Camera\\WinMain.cpp",
-              "RelativeDocumentMoniker": "..\\6Camera\\WinMain.cpp",
-              "ToolTip": "G:\\work\\SuperProject\\Test\\OpenGLStudy\\6Camera\\WinMain.cpp",
-              "RelativeToolTip": "..\\6Camera\\WinMain.cpp",
-              "ViewState": "AgIAAPAAAAAAAAAAAAAAAAwBAAAuAAAAAAAAAA==",
+              "DocumentMoniker": "G:\\work\\SuperProject\\Test\\GraphicsStudy\\OpenGLStudy\\Shader\\WinMain.cpp",
+              "RelativeDocumentMoniker": "..\\Shader\\WinMain.cpp",
+              "ToolTip": "G:\\work\\SuperProject\\Test\\GraphicsStudy\\OpenGLStudy\\Shader\\WinMain.cpp",
+              "RelativeToolTip": "..\\Shader\\WinMain.cpp",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAIcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-05T09:16:21.91Z",
+              "WhenOpened": "2025-01-05T17:07:04.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WinMain.cpp",
-              "DocumentMoniker": "G:\\work\\SuperProject\\Test\\OpenGLStudy\\7Camera\\WinMain.cpp",
-              "RelativeDocumentMoniker": "..\\7Camera\\WinMain.cpp",
-              "ToolTip": "G:\\work\\SuperProject\\Test\\OpenGLStudy\\7Camera\\WinMain.cpp",
-              "RelativeToolTip": "..\\7Camera\\WinMain.cpp",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEUAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "G:\\work\\SuperProject\\Test\\GraphicsStudy\\OpenGLStudy\\Texture\\WinMain.cpp",
+              "RelativeDocumentMoniker": "..\\Texture\\WinMain.cpp",
+              "ToolTip": "G:\\work\\SuperProject\\Test\\GraphicsStudy\\OpenGLStudy\\Texture\\WinMain.cpp",
+              "RelativeToolTip": "..\\Texture\\WinMain.cpp",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAHkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-05T09:16:19.752Z",
+              "WhenOpened": "2025-01-05T17:06:31.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WinMain.cpp",
+              "DocumentMoniker": "G:\\work\\SuperProject\\Test\\GraphicsStudy\\OpenGLStudy\\Transform\\WinMain.cpp",
+              "RelativeDocumentMoniker": "..\\Transform\\WinMain.cpp",
+              "ToolTip": "G:\\work\\SuperProject\\Test\\GraphicsStudy\\OpenGLStudy\\Transform\\WinMain.cpp",
+              "RelativeToolTip": "..\\Transform\\WinMain.cpp",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAIIAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-05T17:05:55.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WinMain.cpp",
+              "DocumentMoniker": "G:\\work\\SuperProject\\Test\\GraphicsStudy\\OpenGLStudy\\Coordinate\\WinMain.cpp",
+              "RelativeDocumentMoniker": "..\\Coordinate\\WinMain.cpp",
+              "ToolTip": "G:\\work\\SuperProject\\Test\\GraphicsStudy\\OpenGLStudy\\Coordinate\\WinMain.cpp",
+              "RelativeToolTip": "..\\Coordinate\\WinMain.cpp",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAALsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-05T17:05:17.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WinMain.cpp",
+              "DocumentMoniker": "G:\\work\\SuperProject\\Test\\GraphicsStudy\\OpenGLStudy\\6Camera\\WinMain.cpp",
+              "RelativeDocumentMoniker": "..\\6Camera\\WinMain.cpp",
+              "ToolTip": "G:\\work\\SuperProject\\Test\\GraphicsStudy\\OpenGLStudy\\6Camera\\WinMain.cpp",
+              "RelativeToolTip": "..\\6Camera\\WinMain.cpp",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAK8AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-05T17:04:31.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WinMain.cpp",
+              "DocumentMoniker": "G:\\work\\SuperProject\\Test\\GraphicsStudy\\OpenGLStudy\\7Camera\\WinMain.cpp",
+              "RelativeDocumentMoniker": "..\\7Camera\\WinMain.cpp",
+              "ToolTip": "G:\\work\\SuperProject\\Test\\GraphicsStudy\\OpenGLStudy\\7Camera\\WinMain.cpp",
+              "RelativeToolTip": "..\\7Camera\\WinMain.cpp",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAMEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-05T17:03:38.911Z",
               "EditorCaption": ""
             }
           ]
